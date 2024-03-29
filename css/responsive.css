@@ -1,7 +1,7 @@
 @media screen and (max-width:1599px){
-    .banner-bg{
-        display: none;
-    }
+    .banner-bg {
+            display: none;
+        }
          .banner-bg img {
              display: none;
          }
