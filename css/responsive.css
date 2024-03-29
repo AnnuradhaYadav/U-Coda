@@ -1,10 +1,7 @@
 @media screen and (max-width:1599px){
-    .hero-img .banner-bg {
-            display: none;
-        }
-         .banner-bg img {
-             display: none;
-         }
+    .banner-bg{
+        display: none;
+    }
 	.hero-banner-text h1{
 		font-size: 52px;
 		line-height: 65px;
