@@ -2,9 +2,7 @@
     .banner-bg{
         display: none;
     }
-    header{
-        display: none;
-    }
+    
 	.hero-banner-text h1{
 		font-size: 52px;
 		line-height: 65px;
