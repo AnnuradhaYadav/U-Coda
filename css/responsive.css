@@ -892,7 +892,7 @@
     }
 
     ul>li {
-        padding-right: 20px;
+        padding-right: 0 !important;
     }
 
     .header-sign a {
@@ -1146,7 +1146,7 @@
 
     .navigation>ul>li>i {
         position: relative;
-        right: -18px;
+        right: 0;
         font-size: 18px;
     }
 
@@ -1155,6 +1155,7 @@
         width: 100%;
         display: flex;
         justify-content: space-between;
+        flex-wrap: wrap;
     }
     .navigation>ul>li>.dropdown-menu.open-sub-menu{
         display: block !important;
@@ -1202,10 +1203,12 @@
         padding-bottom: 0;
     }
 
-    .navigation>ul>li>.dropdown-menu {
-        left: 94px;
-        top: 30px;
-    }
+  .navigation>ul>li>.dropdown-menu {
+      left: 94px;
+      top: 30px;
+      width: 100%;
+      position: static;
+  }
 
     li a {
         font-size: 14px;
