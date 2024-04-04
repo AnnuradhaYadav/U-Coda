@@ -1407,6 +1407,12 @@
 }
 
 @media screen and (max-width:575px) {
+    .toggle-bar {
+            top: 15px;
+        }
+        .navigation>ul>li>i{
+            top: 5px;
+        }
     .header-right .header-menu .navigation>ul>li {
         padding-top: 5px;
     }
