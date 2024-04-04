@@ -1,1189 +1,1488 @@
-@media screen and (max-width:1599px){
-    .banner-bg{
+@media screen and (max-width:1599px) {
+    .banner-bg {
         display: none;
     }
-    
-	.hero-banner-text h1{
-		font-size: 52px;
-		line-height: 65px;
-	}
-	.banner-btn {
-    padding-top: 35px;
-	}
-	.hero-banner-text p {
-    padding-top: 20px;
-    padding-right: 20px;
-	}
-	.hero-img {
-    width: 530px;
-    height: 530px;
-    margin-bottom: 75px;
-}
-.great {
-    padding: 12px 22px;
-}
-.great h6 {
-    padding-bottom: 6px;
-    font-size: 16px;
-}
-.great-main {
-    position: absolute;
-    left: 35px;
-    top: -18px;
-}
-.great .hand a i {
-    left: -26px;
-    top: 12px;
-    width: 42px;
-    height: 42px;
-}
-.regular h6 {
-    font-size: 14px;
-    max-width: 115px;
-    line-height: 16px;
-}
-.regular .check a i{
-    width: 44px;
-    height: 44px;
-}
-.regular {
-    padding: 28px 16px 22px 15px;
-}
 
-.regular-main {
-    position: absolute;
-    right: 0;
-    top: 260px;
-    z-index: 11;
-}
-.regular span {
-    width: 32px;
-    height: 32px;
-}
-.regular a img {
-    width: 32px;
-    margin-right: -9px;
-}
-.regular .check a i{
-    left: 98px;
-}
+    .hero-banner-text h1 {
+        font-size: 52px;
+        line-height: 65px;
+    }
 
-.week h6 {
-    font-size: 16px;
-    padding-bottom: 6px;
-}
-.week-main {
-    left: -78px;
-    bottom: 156px;
-    padding: 16px;
-}
-.step-text{
-	row-gap: 20px;
-}
-.step-text h2 {
-    max-width: 360px;
-}
-h2{
-	font-size: 48px;
-	line-height: 54px;
-}
-.step-box {
-    width: 220px;
-    height: 200px;
-    padding: 40px 18px;
-}
-.step-bg .vector-bg {
-    width: 460px;
-    height: 420px;
-}
+    .banner-btn {
+        padding-top: 35px;
+    }
+
+    .hero-banner-text p {
+        padding-top: 20px;
+        padding-right: 20px;
+    }
+
+    .hero-img {
+        width: 530px;
+        height: 530px;
+        margin-bottom: 75px;
+    }
+
+    .great {
+        padding: 12px 22px;
+    }
+
+    .great h6 {
+        padding-bottom: 6px;
+        font-size: 16px;
+    }
+
+    .great-main {
+        position: absolute;
+        left: 35px;
+        top: -18px;
+    }
+
+    .great .hand a i {
+        left: -26px;
+        top: 12px;
+        width: 42px;
+        height: 42px;
+    }
+
+    .regular h6 {
+        font-size: 14px;
+        max-width: 115px;
+        line-height: 16px;
+    }
+
+    .regular .check a i {
+        width: 44px;
+        height: 44px;
+    }
+
+    .regular {
+        padding: 28px 16px 22px 15px;
+    }
+
+    .regular-main {
+        position: absolute;
+        right: 0;
+        top: 260px;
+        z-index: 11;
+    }
+
+    .regular span {
+        width: 32px;
+        height: 32px;
+    }
+
+    .regular a img {
+        width: 32px;
+        margin-right: -9px;
+    }
+
+    .regular .check a i {
+        left: 98px;
+    }
+
+    .week h6 {
+        font-size: 16px;
+        padding-bottom: 6px;
+    }
+
+    .week-main {
+        left: -78px;
+        bottom: 156px;
+        padding: 16px;
+    }
+
+    .step-text {
+        row-gap: 20px;
+    }
+
+    .step-text h2 {
+        max-width: 360px;
+    }
+
+    h2 {
+        font-size: 48px;
+        line-height: 54px;
+    }
+
+    .step-box {
+        width: 220px;
+        height: 200px;
+        padding: 40px 18px;
+    }
+
+    .step-bg .vector-bg {
+        width: 460px;
+        height: 420px;
+    }
 
 
-.step{
-    padding-bottom: 130px;
-}
- h5{
- 	font-size: 24px;
- }
- h4 {
-    font-size: 26px;
-    max-width: 350px;
+    .step {
+        padding-bottom: 130px;
+    }
+
+    h5 {
+        font-size: 24px;
+    }
+
+    h4 {
+        font-size: 26px;
+        max-width: 350px;
         line-height: 35px;
-}
-.learn-main {
-    padding-top: 22px;
-    padding-bottom: 18px;
-}
-.student-main {
-	padding: 100px 0;
-}
-.about-main p {
-    font-size: 24px;
-    padding-top: 20px;
-    padding-bottom: 40px;
-    font-weight: 400;
-    line-height: 34px;
-    max-width: 500px;
-}
-.about-main{
-	height: 535px;
-}
-.about-right-text p {
-    padding-top: 20px;
-    padding-bottom: 30px;
-}
-.footer-main h2{
-    max-width: 940px;
+    }
+
+    .learn-main {
+        padding-top: 22px;
+        padding-bottom: 18px;
+    }
+
+    .student-main {
+        padding: 100px 0;
+    }
+
+    .about-main p {
+        font-size: 24px;
+        padding-top: 20px;
+        padding-bottom: 40px;
+        font-weight: 400;
+        line-height: 34px;
+        max-width: 500px;
+    }
+
+    .about-main {
+        height: 535px;
+    }
+
+    .about-right-text p {
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+
+    .footer-main h2 {
+        max-width: 940px;
+    }
+
+    .footer-btn {
+        padding-top: 50px;
+        padding-bottom: 0;
+    }
+
+    .footer-bg {
+        overflow: hidden;
+        width: 100%;
+        height: 500px;
+    }
 }
 
-.footer-btn{
-	padding-top: 50px;
-	padding-bottom: 0;
-}
-.footer-bg {
-    overflow: hidden;
-    width: 100%;
-    height: 500px;
-}
-}
-@media screen and (max-width:1365px){
-	.hero-banner-text h1 {
-    font-size: 48px;
-    line-height: 58px;
-    max-width: 480px;
-}
-.regular {
-    padding: 22px 12px 18px 12px;
-}
-.hero-img {
-    width: 480px;
-    height: 480px;
+@media screen and (max-width:1365px) {
+    .hero-banner-text h1 {
+        font-size: 48px;
+        line-height: 58px;
+        max-width: 480px;
+    }
 
-}
-.hero-banner-text {
-    padding: 80px 0;
-}
-.hero-section{
-	padding-top: 65px;
-}
-.banner-btn a.btn {
-    padding: 15px 38px;
-}
-.video-icon a i{
-	width: 60px;
-	height: 60px;
-}
-.step-box {
-    width: 210px;
-    height: 185px;
-    padding: 28px 15px;
-}
-.week-main .hand a i{
-	width: 38px;
-	height: 38px;
-}
-.great .hand a i {
-    width: 38px;
-    height: 38px;
-}
-.great {
-    padding: 12px 16px;
-}
-.great ul li {
-    color: rgba(225, 229, 10, 1);
-    padding-right: 7px;
-    font-size: 18px;
-    margin-right: 2px;
-}
-.great-main {
-    left: 46px;
-    top: -12px;
-}
-.step {
-    padding-top: 90px;
-    padding-bottom: 120px;
-}
+    .regular {
+        padding: 22px 12px 18px 12px;
+    }
 
-.popular-main{
-	padding-top: 100px;
-}
-.course a.btn {
-    padding: 22px 36px;
-    margin-bottom: 90px;
-}
-.about-right-text p {
-    padding-top: 15px;
-    padding-bottom: 18px;
-}
-.about-main p {
-    padding-top: 15px;
-    padding-bottom: 30px;
-}
-.about-main {
-    padding: 45px 42px;
-    height: 485px;
-}
-.about-right-text {
-    padding: 26px 34px;
-}
-.footer-btn a {
-    padding: 20px 38px;
-}
-}
-@media screen and (max-width:1299px){
-	.header {
-    padding-top: 40px;
-}
-	.header-sign a.btn {
-    padding: 18px 20px;
-}
-	.hero-banner-text h1 {
-    font-size: 42px;
-    line-height: 52px;
-    max-width: 425px;
-}
-p {
-    font-size: 16px;
-    line-height: 25px;
-    max-width: 565px;
+    .hero-img {
+        width: 480px;
+        height: 480px;
+
+    }
+
+    .hero-banner-text {
+        padding: 80px 0;
+    }
+
+    .hero-section {
+        padding-top: 65px;
+    }
+
+    .banner-btn a.btn {
+        padding: 15px 38px;
+    }
+
+    .video-icon a i {
+        width: 60px;
+        height: 60px;
+    }
+
+    .step-box {
+        width: 210px;
+        height: 185px;
+        padding: 28px 15px;
+    }
+
+    .week-main .hand a i {
+        width: 38px;
+        height: 38px;
+    }
+
+    .great .hand a i {
+        width: 38px;
+        height: 38px;
+    }
+
+    .great {
+        padding: 12px 16px;
+    }
+
+    .great ul li {
+        color: rgba(225, 229, 10, 1);
+        padding-right: 7px;
+        font-size: 18px;
+        margin-right: 2px;
+    }
+
+    .great-main {
+        left: 46px;
+        top: -12px;
+    }
+
+    .step {
+        padding-top: 90px;
+        padding-bottom: 120px;
+    }
+
+    .popular-main {
+        padding-top: 100px;
+    }
+
+    .course a.btn {
+        padding: 22px 36px;
+        margin-bottom: 90px;
+    }
+
+    .about-right-text p {
+        padding-top: 15px;
+        padding-bottom: 18px;
+    }
+
+    .about-main p {
+        padding-top: 15px;
+        padding-bottom: 30px;
+    }
+
+    .about-main {
+        padding: 45px 42px;
+        height: 485px;
+    }
+
+    .about-right-text {
+        padding: 26px 34px;
+    }
+
+    .footer-btn a {
+        padding: 20px 38px;
+    }
 }
 
-.banner-btn {
-    padding-top: 25px;
-}
-.step-text h2 {
-    max-width: 300px;
-}
-h2 {
-    font-size: 40px;
-    line-height: 48px;
-}
-.step-text .works a {
-    width: 50px;
-    height: 50px;
-    font-size: 16px;
-}
-.step-box span {
-    width: 64px;
-    height: 64px;
-    margin-bottom: 15px;
-}
-.step-box {
-    width: 190px;
-    height: 170px;
-    padding: 25px 4px;
-}
-.step-bg .vector-bg {
-    width: 410px;
-    height: 365px;
-}
-.step-box-main{
-    top: 60px;
-}
-.step {
-    padding-bottom: 100px;
-}
-.course a.btn {
-    margin-bottom: 80px;
-}
-h4 {
-    font-size: 22px;
-    line-height: 30px;
-    max-width: 296px;
-}
-h6 {
-    font-size: 18px;
-    font-weight: 600;
-}
-.learn{
- column-gap: 6px;
-}
-.learn-main {
-    padding-top: 16px;
-    padding-bottom: 14px;
-}
-.popular-text {
-    padding: 24px;
-}
-h3 {
-    font-size: 30px;
-}
-.profile-item {
-    padding-top: 18px;
-}
-.learn a i {
-    width: 25px;
-    height: 25px;
-    font-size: 14px;
-}
-.profile-img img {
-    border-radius: 35px;
-    width: 50px;
-}
-.profile-text span{
-	margin-top: 2px;
-}
-.popular-img img {
-    width: 368px;
-}
-.course a.btn {
-    padding: 18px 28px;
-    margin-bottom: 70px;
-}
-.about-main p {
-    font-size: 20px;
-    line-height: 28px;
-    max-width: 420px;
-    padding-bottom: 20px;
-}
-.about-main h6{
-	padding-top: 5px;
-}
-h6 {
-    font-size: 16px;
-}
-.about-right-text span{
-	padding-top: 0;
-}
-.about-right-text p{
-	padding: 12px 0;
-}
-.about-main a img {
-    border-radius: 50%;
-    border: 4px solid white;
-    box-shadow: 0px 0px 0px 4px #45B870;
-}
-.about-right{
-	row-gap: 30px;
-}
-.about-main {
-    height: 435px;
-}
-.footer-btn a {
-    padding: 18px 32px;
-    margin-right: 30px;
-}
-.footer-btn {
-    padding-top: 40px;
-}
-.footer-bg{
-    height: 450px;
-}
-}
-@media screen and (max-width:1199px){
-	.header-sign {
-    padding-left: 100px;
-}
-	.hero-banner-text h1 {
-    font-size: 36px;
-    line-height: 45px;
-    max-width: 340px;
-}
-.regular-main {
-    right: -8px;
-    top: 217px;
-}
-.hero-img {
-    width: 440px;
-    height: 440px;
-}
-.great ul li {
-    font-size: 16px;
-    margin-right: 2px;
-}
-.great h6 {
-    padding-bottom: 4px;
-}
-.week-main {
-    left: -78px;
-    bottom: 150px;
-    padding: 14px;
-    column-gap: 8px;
-}
-.week-main {
-    bottom: 140px;
-}
-.hero-img {
-    width: 420px;
-    height: 420px;
-}
-.great-main {
-    left: 32px;
-    top: -18px;
+@media screen and (max-width:1299px) {
+    .header {
+        padding-top: 40px;
+    }
+
+    .header-sign a.btn {
+        padding: 18px 20px;
+    }
+
+    .hero-banner-text h1 {
+        font-size: 42px;
+        line-height: 52px;
+        max-width: 425px;
+    }
+
+    p {
+        font-size: 16px;
+        line-height: 25px;
+        max-width: 565px;
+    }
+
+    .banner-btn {
+        padding-top: 25px;
+    }
+
+    .step-text h2 {
+        max-width: 300px;
+    }
+
+    h2 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+
+    .step-text .works a {
+        width: 50px;
+        height: 50px;
+        font-size: 16px;
+    }
+
+    .step-box span {
+        width: 64px;
+        height: 64px;
+        margin-bottom: 15px;
+    }
+
+    .step-box {
+        width: 190px;
+        height: 170px;
+        padding: 25px 4px;
+    }
+
+    .step-bg .vector-bg {
+        width: 410px;
+        height: 365px;
+    }
+
+    .step-box-main {
+        top: 60px;
+    }
+
+    .step {
+        padding-bottom: 100px;
+    }
+
+    .course a.btn {
+        margin-bottom: 80px;
+    }
+
+    h4 {
+        font-size: 22px;
+        line-height: 30px;
+        max-width: 296px;
+    }
+
+    h6 {
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+    .learn {
+        column-gap: 6px;
+    }
+
+    .learn-main {
+        padding-top: 16px;
+        padding-bottom: 14px;
+    }
+
+    .popular-text {
+        padding: 24px;
+    }
+
+    h3 {
+        font-size: 30px;
+    }
+
+    .profile-item {
+        padding-top: 18px;
+    }
+
+    .learn a i {
+        width: 25px;
+        height: 25px;
+        font-size: 14px;
+    }
+
+    .profile-img img {
+        border-radius: 35px;
+        width: 50px;
+    }
+
+    .profile-text span {
+        margin-top: 2px;
+    }
+
+    .popular-img img {
+        width: 368px;
+    }
+
+    .course a.btn {
+        padding: 18px 28px;
+        margin-bottom: 70px;
+    }
+
+    .about-main p {
+        font-size: 20px;
+        line-height: 28px;
+        max-width: 420px;
+        padding-bottom: 20px;
+    }
+
+    .about-main h6 {
+        padding-top: 5px;
+    }
+
+    h6 {
+        font-size: 16px;
+    }
+
+    .about-right-text span {
+        padding-top: 0;
+    }
+
+    .about-right-text p {
+        padding: 12px 0;
+    }
+
+    .about-main a img {
+        border-radius: 50%;
+        border: 4px solid white;
+        box-shadow: 0px 0px 0px 4px #45B870;
+    }
+
+    .about-right {
+        row-gap: 30px;
+    }
+
+    .about-main {
+        height: 435px;
+    }
+
+    .footer-btn a {
+        padding: 18px 32px;
+        margin-right: 30px;
+    }
+
+    .footer-btn {
+        padding-top: 40px;
+    }
+
+    .footer-bg {
+        height: 450px;
+    }
 }
 
-h5 {
-    font-size: 20px;
-}
-.step-text {
-    width: 50%;
-}
+@media screen and (max-width:1199px) {
+    .header-sign {
+        padding-left: 100px;
+    }
 
-.step-bg .vector-bg {
-    width: 390px;
-    height: 375px;
-}
-.step-box {
-    width: 160px;
-    height: 150px;
-    padding: 25px 4px;
-}
-.step-box-main {
-    padding-top: 15px;
-}
-.step-bg .vector-bg {
-    width: 369px;
-    height: 345px;
-}
+    .hero-banner-text h1 {
+        font-size: 36px;
+        line-height: 45px;
+        max-width: 340px;
+    }
 
-h2 {
-    font-size: 34px;
-    line-height: 40px;
-}
-.step-text h2 {
-    max-width: 250px;
-}
-/*.step-box-main {
+    .regular-main {
+        right: -8px;
+        top: 217px;
+    }
+
+    .hero-img {
+        width: 440px;
+        height: 440px;
+    }
+
+    .great ul li {
+        font-size: 16px;
+        margin-right: 2px;
+    }
+
+    .great h6 {
+        padding-bottom: 4px;
+    }
+
+    .week-main {
+        left: -78px;
+        bottom: 150px;
+        padding: 14px;
+        column-gap: 8px;
+    }
+
+    .week-main {
+        bottom: 140px;
+    }
+
+    .hero-img {
+        width: 420px;
+        height: 420px;
+    }
+
+    .great-main {
+        left: 32px;
+        top: -18px;
+    }
+
+    h5 {
+        font-size: 20px;
+    }
+
+    .step-text {
+        width: 50%;
+    }
+
+    .step-bg .vector-bg {
+        width: 390px;
+        height: 375px;
+    }
+
+    .step-box {
+        width: 160px;
+        height: 150px;
+        padding: 25px 4px;
+    }
+
+    .step-box-main {
+        padding-top: 15px;
+    }
+
+    .step-bg .vector-bg {
+        width: 369px;
+        height: 345px;
+    }
+
+    h2 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+
+    .step-text h2 {
+        max-width: 250px;
+    }
+
+    /*.step-box-main {
     padding-top: 50px;
 }*/
-.step {
-    padding-bottom: 90px;
-}
-.popular-main {
-    padding-top: 85px;
-}
-.popular-img img {
-    width: 308px;
-}
-h4 {
-    font-size: 18px;
-    line-height: 25px;
-    max-width: 240px;
-}
-.popular-text {
-    padding: 18px;
-}
-h3 {
-    font-size: 26px;
-}
-.learn-main{
-	padding: 10px 0;
-}
-.profile-item {
-    padding-top: 15px;
-}
-.popular-main {
-    padding-top: 70px;
-}
-.student-main {
-    padding: 70px 0;
-}
-.about-main {
-    padding: 45px 35px;
-}
-.about-main p{
-	font-size: 18px;
-}
-.about-right-text p{
-	line-height: 20px;
-	padding: 8px 0;
-}
-.about-right-text {
-    padding: 20px 32px;
-}
-.about-right {
-    row-gap: 20px;
-}
-.about-main p{
-	padding-top: 10px;
-	padding-bottom: 15px;
-}
-.about-main {
-    padding: 38px 35px;
-    height: 375px;
-}
+    .step {
+        padding-bottom: 90px;
+    }
+
+    .popular-main {
+        padding-top: 85px;
+    }
+
+    .popular-img img {
+        width: 308px;
+    }
+
+    h4 {
+        font-size: 18px;
+        line-height: 25px;
+        max-width: 240px;
+    }
+
+    .popular-text {
+        padding: 18px;
+    }
+
+    h3 {
+        font-size: 26px;
+    }
+
+    .learn-main {
+        padding: 10px 0;
+    }
+
+    .profile-item {
+        padding-top: 15px;
+    }
+
+    .popular-main {
+        padding-top: 70px;
+    }
+
+    .student-main {
+        padding: 70px 0;
+    }
+
+    .about-main {
+        padding: 45px 35px;
+    }
+
+    .about-main p {
+        font-size: 18px;
+    }
+
+    .about-right-text p {
+        line-height: 20px;
+        padding: 8px 0;
+    }
+
+    .about-right-text {
+        padding: 20px 32px;
+    }
+
+    .about-right {
+        row-gap: 20px;
+    }
+
+    .about-main p {
+        padding-top: 10px;
+        padding-bottom: 15px;
+    }
+
+    .about-main {
+        padding: 38px 35px;
+        height: 375px;
+    }
 
 
-.footer-btn a {
-    padding: 16px 28px;
-    margin-right: 25px;
-}
-.step-box span {
-    width: 60px;
-    height: 60px;
-    margin-bottom: 22px;
-}
-.footer-main h2 {
-    max-width: 700px;
-}
-.footer-main{
-    top: 100px;
-}
-.footer-bg {
-    height: 400px;
-}
-}
-@media screen and (max-width:1023px){
-	.header {
-    padding-top: 30px;
-}
-	.hero-banner-text h1 {
-    font-size: 32px;
-    line-height: 40px;
-    max-width: 320px;
-}
-.header-sign a {
-    font-size: 18px;
+    .footer-btn a {
+        padding: 16px 28px;
+        margin-right: 25px;
+    }
+
+    .step-box span {
+        width: 60px;
+        height: 60px;
+        margin-bottom: 22px;
+    }
+
+    .footer-main h2 {
+        max-width: 700px;
+    }
+
+    .footer-main {
+        top: 100px;
+    }
+
+    .footer-bg {
+        height: 400px;
+    }
 }
 
-li a {
-    font-size: 18px;
-}
-.header-sign a.btn {
-    padding: 15px 18px;
-}
-.banner-btn a.btn {
-    padding: 12px 30px;
-}
-.video-icon a i {
-    width: 48px;
-    height: 48px;
-    font-size: 16px;
-}
-.great .hand a i {
-    width: 32px;
-    height: 32px;
-    left: -20px;
-}
-.great {
-    padding: 10px 12px;
-}
-.great-main {
-    left: 36px;
-    top: -8px;
-}
-.great h6 {
-    padding-bottom: 0;
-    font-size: 14px;
-}
-.week h6 {
-    font-size: 14px;
-    padding-bottom: 2px;
-}
-.week span {
-    font-size: 12px;
-}
-.week-main {
-    left: -57px;
-    bottom: 150px;
-    padding: 10px;
-}
-.regular .check a i {
-    width: 34px;
-    height: 34px;
-}
-.step-box {
-    width: 145px;
-    height: 145px;
-    padding: 20px 4px;
-}
-.step-box-main {
-    top: 42px;
-}
-.step-bg .vector-bg {
-    width: 345px;
-    height: 325px;
-}
-.step-box-main{
-    left: 0;
-    top: 14px;
-}
-.regular {
-    padding: 16px 12px 16px 12px;
-}
-.step-text .works{
-    margin-top: 5px;
-}
-h2 {
-    font-size: 28px;
-    line-height: 35px;
-}
-.step-text h2 {
-    max-width: 206px;
-}
-.step-text {
-    row-gap: 15px;
-}
-p {
-    font-size: 15px;
-    line-height: 24px;
-}
-h5 {
-    font-size: 18px;
-}
+@media screen and (max-width:1023px) {
+    .header {
+        padding-top: 30px;
+    }
 
-.step-bg .vector-bg{
-    width: 365px;
-    height: 330px;
-}
-.step{
-	padding: 75px 0;
-}
-.popular {
-    padding-top: 70px;
-}
-.popular-main{
-	padding-bottom: 20px;
-}
-.popular-img img {
-    width: 295px;
-}
-.learn a i {
-    width: 20px;
-    height: 20px;
-    font-size: 10px;
-    padding-left: 2px;
-}
-h6 {
-    font-size: 14px;
-}
-h3 {
-    font-size: 22px;
-}
-.profile-text span {
-    margin-top: 0;
-}
-.profile-item {
-    padding-top: 10px;
-}
-.course a.btn {
-    padding: 14px 22px;
-    margin-bottom: 70px;
-}
-.student-title {
-    padding-bottom: 40px;
-}
-.about-main p {
-    font-size: 16px;
-    line-height: 24px;
-}
-.about-main {
-    padding: 34px;
-    height: 360px;
-}
-.footer-btn a {
-    padding: 14px 25px;
-    margin-right: 22px;
-}
-.footer-btn {
-    padding-top: 30px;
-}
-.footer-bg {
-    height: 350px;
-}
-span{
-	font-size: 18px;
-}
-.week-main .hand a i {
-    width: 32px;
-    height: 32px;
-}
-.week-main{
-	align-items: center;
-}
-}
-@media screen and (max-width:991px){
-	.header {
-    padding-top: 20px;
-}
-	.header-sign {
-    padding-left: 45px;
-}
-.regular .check a i{
-    top: -22px;
-}
-.regular-main {
-    right: -8px;
-    top: 185px;
-}
-.regular{
-    padding: 13px 10px;
-}
-.regular h6{
-    font-size: 13px;
-    line-height: 14px;
-}
-li a {
-    font-size: 16px;
-}
-ul > li {
-    padding-right: 20px;
-}
-.header-sign a {
-    font-size: 16px;
-}
-.header-sign a.btn {
-    padding: 12px 16px;
-}
-.header-sign a {
-    font-size: 14px;
-}
-.navigation > ul > li > .dropdown-menu li a {
-    font-size: 16px;
-}
-.navigation > ul > li > .dropdown-menu {
-    width: 150px;
-}
-.hero-img {
-    width: 350px;
-    height: 350px;
-    margin-bottom: 60px;
-}
-.hero-banner-text h1 {
-    font-size: 28px;
-    line-height: 36px;
-    max-width: 280px;
-}
-p {
-    font-size: 14px;
-    line-height: 20px;
-}
-.hero-banner-text p {
-    padding-top: 14px;
-}
-.banner-btn {
-    padding-top: 15px;
-}
-.banner-btn a.btn {
-    padding: 10px 20px;
-    font-size: 14px;
-}
-.video-icon a i {
-    width: 40px;
-    height: 40px;
-    font-size: 14px;
-}
-.step-text .works a {
-    width: 40px;
-    height: 40px;
-    font-size: 14px;
-}
-span {
-    font-size: 16px;
-}
-.week h6 {
-    font-size: 13px;
-    padding-bottom: 0;
-}
-.week span i {
-    margin-right: 4px;
-    font-size: 14px;
-}
-.great ul li {
-    font-size: 14px;
-    margin-right: 0;
-}
-.great h6 {
-    font-size: 13px;
-}
-.great-main {
-    left: 33px;
-    top: -12px;
-}
-
-h5 {
-    font-size: 16px;
-}
-.step-box span {
-    width: 45px;
-    height: 45px;
-    margin-bottom: 16px;
-}
-
-
-.step-bg .vector-bg {
-    width: 295px;
-    height: 265px;
-}
-
-.step-box-main{
-	column-gap: 20px;
-}
-.step-box:nth-child(even) {
-    margin-top: 20px;
-}
-.step-box-main {
-    padding-top: 40px;
-    padding-left: 52px;
-}
-.step-box {
-    width: 130px;
-    height: 124px;
-    padding: 20px 5px;
-}
-
-.step-text h2 {
-    max-width: 175px;
-}
-h2 {
-    font-size: 24px;
-    line-height: 30px;
-}
-.step-text {
-    row-gap: 10px;
-}
-.step {
-    padding: 60px 0;
-}
-.popular-box {
-    width: calc(50% - 15px);
-}
-.popular-box:nth-child(3n + 2) {
-    top: 0;
-}
-.popular-img img {
-    width: 100%;
-}
-.course a.btn {
-    padding: 12px 16px;
-    margin-bottom: 60px;
-    font-size: 14px;
-}
-.popular-main {
-    padding-top: 40px;
-}
-.popular {
-    padding-top: 60px;
-}
-.about-box-main{
-	flex-wrap: wrap;
-}
-.about-main{
-	width: 100%;
-	order: 2;
-}
-.about-right{
-	width: 100%;
-	order: 1;
-	flex-direction: row;
-	    column-gap: 30px;
-    margin-bottom: 30px;
-}
-.about-right-text {
-    width: calc(50% - 15px);
-}
-.student-main {
-    padding: 60px 0;
-}
-.student-title {
-    padding-bottom: 30px;
-}
-.footer-bg{
-    height: 310px;
-}
-.footer-main h2 {
-    max-width: 496px;
-}
-
-.footer-btn a {
-    padding: 12px 20px;
-    margin-right: 22px;
-    font-size: 14px;
-}
-.week-main {
-    bottom: 85px;
-}
-}
-@media screen and (max-width:767px){
-	.hero-section {
-    padding-top: 50px;
-}
-.step-bg .vector-bg {
-    display: none;
-}
-.toggle-bar {
-    position: absolute;
-    right: 15px;
-    top: 20px;
-    font-size: 20px;
-    background: none;
-    display: block;
-    z-index: 1111;
-}
-.header-main.open-bar .header-right {
-    display: flex;
-}
-.header-main.open-bar .toggle-bar .fa-bars::before {
-    content: '\f00d';
-}
-.header-right {
-    position: fixed;
-    right: 0;
-    top: 0;
-    background: #a5ddba;
-    width: 100%;
-    flex-direction: column;
-    display: none;
-    transition: all ease 1s;
-    height: 100%;
-    max-width: 270px;
-    z-index: 111;
-}
-.header-right .header-menu .navigation{
-	padding: 0 15px;
-}
-.header-right .header-menu .navigation > ul{
-	flex-direction: column;
-}
-.header-right .header-menu .navigation > ul > li{
-	padding-top: 10px;
-}
-.header-right .header-menu .navigation > ul > li > a{
-	line-height: 20px;
-	display: inline-block;
-}
-.navigation > ul > li > .dropdown-menu li a {
-    font-size: 14px;
-    line-height: 10px;
-}
-.navigation > ul > li > a.dropdown-menu li a{
-	padding-bottom: 0;
-}
-.navigation > ul > li > .dropdown-menu {
-    left: 94px;
-    top: 30px;
-}
-li a {
-    font-size: 14px;
-}
-.header-right .header-sign {
-    padding-left: 15px;
-}
-.header-right .header-sign {
-    align-items: start;
-    row-gap: 10px;
-    flex-direction: column;
-}
-.header-right .header-sign a{
-    padding-top: 10px;
-}
-.header-right .header-sign a.btn {
-    margin-bottom: 10px;
-}
-.hero-main{
-	flex-wrap: wrap;
-}
-.hero-banner-text {
-    width: 100%;
-}
-.banner-item {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-}
-.hero-banner-text {
-	padding-top: 0;
-    padding-bottom: 50px;
-}
-.hero-banner-text h1 {
-    font-size: 28px;
-    line-height: 35px;
-    max-width: 512px;
-}
-
-.week-main {
-    bottom: 115px;
-    left: 20px;
-}
-.great-main {
-    left: 108px;
-    top: -8px;
-}
-.regular-main {
-    right: -8px;
-    top: 133px;
-}
-.regular a img {
-    width: 28px;
-    margin-right: -8px;
-}
-.regular span {
-    width: 28px;
-    height: 28px;
-}
-.popular {
-    padding-top: 45px;
-}
-.popular-main {
-    padding-top: 28px;
-}
-.course a.btn {
-    margin-bottom: 40px;
-}
-.step {
-    padding: 45px 0;
-}
-
-.step-main{
-	flex-wrap: wrap;
-}
-.step-bg {
-    width: 100%;
-}
-.step-text {
-    width: 100%;
-    margin-top: 0;
-}
-.step-box:nth-child(even) {
-    margin-top: 0;
-}
-
-.step-box-main {
-    padding-top: 0;
-    padding-left: 0;
-    position: static;
-
-}
-h5 {
-    font-size: 14px;
-}
-h6 {
-    font-size: 13px;
-    line-height: 15px;
-}
-h4 {
-    font-size: 16px;
-    line-height: 20px;
-    max-width: 216px;
-}
-h3 {
-    font-size: 20px;
-}
-.learn {
-    column-gap: 4px;
-}
-.step-box {
-    width: calc(25% - 15px);
-    height: 108px;
-    padding: 15px 5px;
-    margin-bottom: 30px;
-}
-
-.step-box span {
-    width: 35px;
-    height: 35px;
-    margin-bottom: 12px;
-}
-.step-text h2 {
-    max-width: 100%;
-}
-p{
-    max-width: inherit;
-}
-.about-right-text {
-    width: 100%;
-}
-.about-right{
-    flex-direction: column;
-    row-gap: 15px;
-}
-.student-title {
-    padding-bottom: 20px;
-}
-.footer-main h2 {
-    padding: 0 20px;
-}
-.footer-main {
-    top: 75px;
-}
-.about-main a img {
-    width: 100px;
-    box-shadow: 0px 0px 0px 3px #45B870;
-}
-.about-right-text a img {
-    border: 3px solid white;
-    width: 75px;
-}
-
-
-}
-@media screen and (max-width:575px){
-    .header-right .header-menu .navigation > ul > li {
-    padding-top: 5px;
-}
-.header-right .header-sign a {
-    padding-top: 5px;
-}
-.header-right .header-sign {
-    row-gap: 5px;
-}
-.header-sign a.btn {
-    padding: 8px 12px;
-}
     .hero-banner-text h1 {
-    font-size: 24px;
-    line-height: 30px;
-    max-width: inherit;
-}
-.navigation > ul > li > .dropdown-menu {
-    top: 20px;
-}
-.hero-banner-text p {
-    padding-right: 0;
-}
-.hero-section {
-    padding-top: 35px;
-}
-.banner-item{
-    position: relative;
-}
-.hero-img {
-    width: 100%;
-    height: auto;
-    margin-bottom: 60px;
-    border: none;
-    background-color: transparent;
-    box-shadow: none;
-    margin-right: 0;
-    border-radius: 0;
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-}
-.banner-item .hero-img > img{
-    display: none;
-}
-.week-main{
-    position: static;
-}
-.great-main{
-    position: static;
-}
-.great{
-    width: 100%;
-}
-.great ul{
-    margin-left: 40px;
-    margin-top: 3x
-}
-.great h6 {
-    text-align: left;
-    padding-left: 40px;
-}
-.great .hand a i {
-    left: 10px;
-}
-.regular-main{
-    position: static;
-}
-.regular {
-    padding-left: 55px;
-}
-.regular .check a i {
-    top: 10px;
-    left: 10px;
+        font-size: 32px;
+        line-height: 40px;
+        max-width: 320px;
+    }
+
+    .header-sign a {
+        font-size: 18px;
+    }
+
+    li a {
+        font-size: 18px;
+    }
+
+    .header-sign a.btn {
+        padding: 15px 18px;
+    }
+
+    .banner-btn a.btn {
+        padding: 12px 30px;
+    }
+
+    .video-icon a i {
+        width: 48px;
+        height: 48px;
+        font-size: 16px;
+    }
+
+    .video-modal {
+        width: 700px;
+    }
+
+    .great .hand a i {
+        width: 32px;
+        height: 32px;
+        left: -20px;
+    }
+
+    .great {
+        padding: 10px 12px;
+    }
+
+    .great-main {
+        left: 36px;
+        top: -8px;
+    }
+
+    .great h6 {
+        padding-bottom: 0;
+        font-size: 14px;
+    }
+
+    .week h6 {
+        font-size: 14px;
+        padding-bottom: 2px;
+    }
+
+    .week span {
+        font-size: 12px;
+    }
+
+    .week-main {
+        left: -57px;
+        bottom: 150px;
+        padding: 10px;
+    }
+
+    .regular .check a i {
+        width: 34px;
+        height: 34px;
+    }
+
+    .step-box {
+        width: 145px;
+        height: 145px;
+        padding: 20px 4px;
+    }
+
+    .step-box-main {
+        top: 42px;
+    }
+
+    .step-bg .vector-bg {
+        width: 345px;
+        height: 325px;
+    }
+
+    .step-box-main {
+        left: 0;
+        top: 14px;
+    }
+
+    .regular {
+        padding: 16px 12px 16px 12px;
+    }
+
+    .step-text .works {
+        margin-top: 5px;
+    }
+
+    h2 {
+        font-size: 28px;
+        line-height: 35px;
+    }
+
+    .step-text h2 {
+        max-width: 206px;
+    }
+
+    .step-text {
+        row-gap: 15px;
+    }
+
+    p {
+        font-size: 15px;
+        line-height: 24px;
+    }
+
+    h5 {
+        font-size: 18px;
+    }
+
+    .step-bg .vector-bg {
+        width: 365px;
+        height: 330px;
+    }
+
+    .step {
+        padding: 75px 0;
+    }
+
+    .popular {
+        padding-top: 70px;
+    }
+
+    .popular-main {
+        padding-bottom: 20px;
+    }
+
+    .popular-img img {
+        width: 295px;
+    }
+
+    .learn a i {
+        width: 20px;
+        height: 20px;
+        font-size: 10px;
+        padding-left: 2px;
+    }
+
+    h6 {
+        font-size: 14px;
+    }
+
+    h3 {
+        font-size: 22px;
+    }
+
+    .profile-text span {
+        margin-top: 0;
+    }
+
+    .profile-item {
+        padding-top: 10px;
+    }
+
+    .course a.btn {
+        padding: 14px 22px;
+        margin-bottom: 70px;
+    }
+
+    .student-title {
+        padding-bottom: 40px;
+    }
+
+    .about-main p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .about-main {
+        padding: 34px;
+        height: 360px;
+    }
+
+    .footer-btn a {
+        padding: 14px 25px;
+        margin-right: 22px;
+    }
+
+    .footer-btn {
+        padding-top: 30px;
+    }
+
+    .footer-bg {
+        height: 350px;
+    }
+
+    span {
+        font-size: 18px;
+    }
+
+    .week-main .hand a i {
+        width: 32px;
+        height: 32px;
+    }
+
+    .week-main {
+        align-items: center;
+    }
 }
 
-/*.great-main {
+@media screen and (max-width:991px) {
+    .header {
+        padding-top: 20px;
+    }
+
+    .header-sign {
+        padding-left: 45px;
+    }
+
+    .regular .check a i {
+        top: -22px;
+    }
+
+    .regular-main {
+        right: -8px;
+        top: 185px;
+    }
+
+    .regular {
+        padding: 13px 10px;
+    }
+
+    .regular h6 {
+        font-size: 13px;
+        line-height: 14px;
+    }
+
+    li a {
+        font-size: 16px;
+    }
+
+    ul>li {
+        padding-right: 20px;
+    }
+
+    .header-sign a {
+        font-size: 16px;
+    }
+
+    .header-sign a.btn {
+        padding: 12px 16px;
+    }
+
+    .header-sign a {
+        font-size: 14px;
+    }
+
+    .navigation>ul>li>.dropdown-menu li a {
+        font-size: 16px;
+    }
+
+    .navigation>ul>li>.dropdown-menu {
+        width: 150px;
+    }
+
+    .hero-img {
+        width: 350px;
+        height: 350px;
+        margin-bottom: 60px;
+    }
+
+    .hero-banner-text h1 {
+        font-size: 28px;
+        line-height: 36px;
+        max-width: 280px;
+    }
+
+    p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .hero-banner-text p {
+        padding-top: 14px;
+    }
+
+    .banner-btn {
+        padding-top: 15px;
+    }
+
+    .banner-btn a.btn {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+
+    .video-icon a i {
+        width: 40px;
+        height: 40px;
+        font-size: 14px;
+    }
+
+    .video-modal {
+        width: 575px;
+        border-radius: 10px;
+        width: 800px;
+        padding: 10px;
+    }
+
+    .step-text .works a {
+        width: 40px;
+        height: 40px;
+        font-size: 14px;
+    }
+
+    span {
+        font-size: 16px;
+    }
+
+    .week h6 {
+        font-size: 13px;
+        padding-bottom: 0;
+    }
+
+    .week span i {
+        margin-right: 4px;
+        font-size: 14px;
+    }
+
+    .great ul li {
+        font-size: 14px;
+        margin-right: 0;
+    }
+
+    .great h6 {
+        font-size: 13px;
+    }
+
+    .great-main {
+        left: 33px;
+        top: -12px;
+    }
+
+    h5 {
+        font-size: 16px;
+    }
+
+    .step-box span {
+        width: 45px;
+        height: 45px;
+        margin-bottom: 16px;
+    }
+
+
+    .step-bg .vector-bg {
+        width: 295px;
+        height: 265px;
+    }
+
+    .step-box-main {
+        column-gap: 20px;
+    }
+
+    .step-box:nth-child(even) {
+        margin-top: 20px;
+    }
+
+    .step-box-main {
+        padding-top: 40px;
+        padding-left: 52px;
+    }
+
+    .step-box {
+        width: 130px;
+        height: 124px;
+        padding: 20px 5px;
+    }
+
+    .step-text h2 {
+        max-width: 175px;
+    }
+
+    h2 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    .step-text {
+        row-gap: 10px;
+    }
+
+    .step {
+        padding: 60px 0;
+    }
+
+    .popular-box {
+        width: calc(50% - 15px);
+    }
+
+    .popular-box:nth-child(3n + 2) {
+        top: 0;
+    }
+
+    .popular-img img {
+        width: 100%;
+    }
+
+    .course a.btn {
+        padding: 12px 16px;
+        margin-bottom: 60px;
+        font-size: 14px;
+    }
+
+    .popular-main {
+        padding-top: 40px;
+    }
+
+    .popular {
+        padding-top: 60px;
+    }
+
+    .about-box-main {
+        flex-wrap: wrap;
+    }
+
+    .about-main {
+        width: 100%;
+        order: 2;
+    }
+
+    .about-right {
+        width: 100%;
+        order: 1;
+        flex-direction: row;
+        column-gap: 30px;
+        margin-bottom: 30px;
+    }
+
+    .about-right-text {
+        width: calc(50% - 15px);
+    }
+
+    .student-main {
+        padding: 60px 0;
+    }
+
+    .student-title {
+        padding-bottom: 30px;
+    }
+
+    .footer-bg {
+        height: 310px;
+    }
+
+    .footer-main h2 {
+        max-width: 496px;
+    }
+
+    .footer-btn a {
+        padding: 12px 20px;
+        margin-right: 22px;
+        font-size: 14px;
+    }
+
+    .week-main {
+        bottom: 85px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .hero-section {
+        padding-top: 50px;
+    }
+
+    .step-bg .vector-bg {
+        display: none;
+    }
+
+    .toggle-bar {
+        position: absolute;
+        right: 15px;
+        top: 20px;
+        font-size: 20px;
+        background: none;
+        display: block;
+        z-index: 1111;
+    }
+
+    .header-main.open-bar .header-right {
+        display: flex;
+    }
+
+    .header-main.open-bar .toggle-bar .fa-bars::before {
+        content: '\f00d';
+    }
+
+    .header-right {
+        position: fixed;
+        right: 0;
+        top: 0;
+        background: #a5ddba;
+        width: 100%;
+        flex-direction: column;
+        display: none;
+        transition: all ease 1s;
+        height: 100%;
+        max-width: 270px;
+        z-index: 111;
+    }
+
+    .header-right .header-menu .navigation {
+        padding: 0 15px;
+    }
+
+    .header-right .header-menu .navigation>ul {
+        flex-direction: column;
+    }
+
+    .header-right .header-menu .navigation>ul>li {
+        padding-top: 10px;
+    }
+
+    .header-right .header-menu .navigation>ul>li>a {
+        line-height: 20px;
+        display: inline-block;
+    }
+
+    .navigation>ul>li>.dropdown-menu li a {
+        font-size: 14px;
+        line-height: 10px;
+    }
+
+    .navigation>ul>li>a.dropdown-menu li a {
+        padding-bottom: 0;
+    }
+
+    .navigation>ul>li>.dropdown-menu {
+        left: 94px;
+        top: 30px;
+    }
+
+    li a {
+        font-size: 14px;
+    }
+
+    .header-right .header-sign {
+        padding-left: 15px;
+    }
+
+    .header-right .header-sign {
+        align-items: start;
+        row-gap: 10px;
+        flex-direction: column;
+    }
+
+    .header-right .header-sign a {
+        padding-top: 10px;
+    }
+
+    .header-right .header-sign a.btn {
+        margin-bottom: 10px;
+    }
+
+    .hero-main {
+        flex-wrap: wrap;
+    }
+
+    .hero-banner-text {
+        width: 100%;
+    }
+
+    .video-modal {
+        border-radius: 5px;
+        width: 318px;
+        padding: 8px;
+    }
+
+    .banner-item {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .hero-banner-text {
+        padding-top: 0;
+        padding-bottom: 50px;
+    }
+
+    .hero-banner-text h1 {
+        font-size: 28px;
+        line-height: 35px;
+        max-width: 512px;
+    }
+
+    .week-main {
+        bottom: 115px;
+        left: 20px;
+    }
+
+    .great-main {
+        left: 108px;
+        top: -8px;
+    }
+
+    .regular-main {
+        right: -8px;
+        top: 133px;
+    }
+
+    .regular a img {
+        width: 28px;
+        margin-right: -8px;
+    }
+
+    .regular span {
+        width: 28px;
+        height: 28px;
+    }
+
+    .popular {
+        padding-top: 45px;
+    }
+
+    .popular-main {
+        padding-top: 28px;
+    }
+
+    .course a.btn {
+        margin-bottom: 40px;
+    }
+
+    .step {
+        padding: 45px 0;
+    }
+
+    .step-main {
+        flex-wrap: wrap;
+    }
+
+    .step-bg {
+        width: 100%;
+    }
+
+    .step-text {
+        width: 100%;
+        margin-top: 0;
+    }
+
+    .step-box:nth-child(even) {
+        margin-top: 0;
+    }
+
+    .step-box-main {
+        padding-top: 0;
+        padding-left: 0;
+        position: static;
+
+    }
+
+    h5 {
+        font-size: 14px;
+    }
+
+    h6 {
+        font-size: 13px;
+        line-height: 15px;
+    }
+
+    h4 {
+        font-size: 16px;
+        line-height: 20px;
+        max-width: 216px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+    .learn {
+        column-gap: 4px;
+    }
+
+    .step-box {
+        width: calc(25% - 15px);
+        height: 108px;
+        padding: 15px 5px;
+        margin-bottom: 30px;
+    }
+
+    .step-box span {
+        width: 35px;
+        height: 35px;
+        margin-bottom: 12px;
+    }
+
+    .step-text h2 {
+        max-width: 100%;
+    }
+
+    p {
+        max-width: inherit;
+    }
+
+    .about-right-text {
+        width: 100%;
+    }
+
+    .about-right {
+        flex-direction: column;
+        row-gap: 15px;
+    }
+
+    .student-title {
+        padding-bottom: 20px;
+    }
+
+    .footer-main h2 {
+        padding: 0 20px;
+    }
+
+    .footer-main {
+        top: 75px;
+    }
+
+    .about-main a img {
+        width: 100px;
+        box-shadow: 0px 0px 0px 3px #45B870;
+    }
+
+    .about-right-text a img {
+        border: 3px solid white;
+        width: 75px;
+    }
+
+
+}
+
+@media screen and (max-width:575px) {
+    .header-right .header-menu .navigation>ul>li {
+        padding-top: 5px;
+    }
+
+    .header-right .header-sign a {
+        padding-top: 5px;
+    }
+
+    .header-right .header-sign {
+        row-gap: 5px;
+    }
+
+    .header-sign a.btn {
+        padding: 8px 12px;
+    }
+
+    .hero-banner-text h1 {
+        font-size: 24px;
+        line-height: 30px;
+        max-width: inherit;
+    }
+
+    .navigation>ul>li>.dropdown-menu {
+        top: 20px;
+    }
+
+    .hero-banner-text p {
+        padding-right: 0;
+    }
+
+    .hero-section {
+        padding-top: 35px;
+    }
+
+    .banner-item {
+        position: relative;
+    }
+
+    .hero-img {
+        width: 100%;
+        height: auto;
+        margin-bottom: 60px;
+        border: none;
+        background-color: transparent;
+        box-shadow: none;
+        margin-right: 0;
+        border-radius: 0;
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .banner-item .hero-img>img {
+        display: none;
+    }
+
+    .week-main {
+        position: static;
+    }
+
+    .great-main {
+        position: static;
+    }
+
+    .great {
+        width: 100%;
+    }
+
+    .great ul {
+        margin-left: 40px;
+        margin-top: 3x
+    }
+
+    .great h6 {
+        text-align: left;
+        padding-left: 40px;
+    }
+
+    .great .hand a i {
+        left: 10px;
+    }
+
+    .regular-main {
+        position: static;
+    }
+
+    .regular {
+        padding-left: 55px;
+    }
+
+    .regular .check a i {
+        top: 10px;
+        left: 10px;
+    }
+
+    /*.great-main {
     left: 16px;
     top: -28px;
 }
@@ -1199,63 +1498,75 @@ p{
     padding: 10px;
 }*/
 
-h2 {
-    font-size: 20px;
-    line-height: 25px;
-}
-.step-box {
-    width: calc(50% - 10px);
-}
-.popular-box {
-    width: 100%;
-    max-width: 350px;
-    margin: 0 auto;
-}
-.popular-main{
-    row-gap: 20px;
-    padding-top: 18px;
-}
+    h2 {
+        font-size: 20px;
+        line-height: 25px;
+    }
 
-.course a.btn {
-    padding: 10px 12px;
-    margin-bottom: 35px;
-    font-size: 12px;
-}
-.student-main {
-    padding: 45px 0;
-}
-.about-right-text {
-    padding: 14px;
-}
-.about-right-text a img {
-    width: 55px;
-}
-.about-main{
-    padding: 16px;
-    height: 320px;
-}
+    .step-box {
+        width: calc(50% - 10px);
+    }
 
-.about-main p {
-    line-height: 20px;
-    padding: 10px 0;
-}
-.footer-main h2 {
-    padding: 0 15px; 
-}
-.footer-btn a {
-    padding: 10px 16px;
-    margin-right: 16px;
-    font-size: 12px;
-}
-.footer-btn {
-    padding-top: 20px;
-}
-.footer-main {
-    top: 60px;
-}
-.footer-bg{
-    height: 260px;
-}
+    .popular-box {
+        width: 100%;
+        max-width: 350px;
+        margin: 0 auto;
+    }
+
+    .popular-main {
+        row-gap: 20px;
+        padding-top: 18px;
+    }
+
+    .course a.btn {
+        padding: 10px 12px;
+        margin-bottom: 35px;
+        font-size: 12px;
+    }
+
+    .student-main {
+        padding: 45px 0;
+    }
+
+    .about-right-text {
+        padding: 14px;
+    }
+
+    .about-right-text a img {
+        width: 55px;
+    }
+
+    .about-main {
+        padding: 16px;
+        height: 320px;
+    }
+
+    .about-main p {
+        line-height: 20px;
+        padding: 10px 0;
+    }
+
+    .footer-main h2 {
+        padding: 0 15px;
+    }
+
+    .footer-btn a {
+        padding: 10px 16px;
+        margin-right: 16px;
+        font-size: 12px;
+    }
+
+    .footer-btn {
+        padding-top: 20px;
+    }
+
+    .footer-main {
+        top: 60px;
+    }
+
+    .footer-bg {
+        height: 260px;
+    }
 
 
 
