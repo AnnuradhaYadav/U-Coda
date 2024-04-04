@@ -1156,7 +1156,12 @@
         display: flex;
         justify-content: space-between;
     }
-
+    .navigation>ul>li>.dropdown-menu.open-sub-menu{
+        display: block !important;
+    }
+        .navigation ul li:hover .dropdown-menu {
+            display: none !important;
+        }
     .header-right {
         position: fixed;
         right: 0;

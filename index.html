@@ -24,8 +24,7 @@
 								<li> <a href="#"> All Courses</a> <i class="fa fa-angle-down" aria-hidden="true"></i>
 									<ul class="dropdown-menu">
 										<li> <a href="#"> All course</a></li>
-										<li> <a href="#"> All course</a>
-										</li>
+										<li> <a href="#"> All course</a></li>
 										<li> <a href="#"> All course</a></li>
 										<li> <a href="#"> All course</a></li>	 	
 									</ul>
@@ -445,6 +444,9 @@
 	});
 		$('.toggle-bar').click(function(){
 			$('.header-main').toggleClass('open-bar');
+		});
+		$('.fa-angle-down').click(function(){
+			$('.dropdown-menu').toggleClass('open-sub-menu')
 		});
 		});
 
