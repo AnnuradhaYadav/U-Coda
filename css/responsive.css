@@ -677,7 +677,7 @@
     }
 
     .video-modal {
-        width: 700px;
+        width: 700px !important;
     }
 
     .great .hand a i {
@@ -952,7 +952,7 @@
     }
 
     .video-modal {
-        width: 575px;
+        width: 575px !important;
         border-radius: 10px;
         width: 800px;
         padding: 10px;
@@ -1222,7 +1222,7 @@
 
     .video-modal {
         border-radius: 5px;
-        width: 318px;
+        width: 318px !important;
         padding: 8px;
     }
 
