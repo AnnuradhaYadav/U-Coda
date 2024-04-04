@@ -954,7 +954,6 @@
     .video-modal {
         width: 575px !important;
         border-radius: 10px;
-        width: 800px;
         padding: 10px;
     }
 
@@ -1143,6 +1142,19 @@
 
     .header-main.open-bar .toggle-bar .fa-bars::before {
         content: '\f00d';
+    }
+
+    .navigation>ul>li>i {
+        position: relative;
+        right: -18px;
+        font-size: 18px;
+    }
+
+    .header-right .header-menu .navigation>ul>li {
+        padding-top: 10px;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
     }
 
     .header-right {
