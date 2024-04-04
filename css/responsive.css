@@ -1160,7 +1160,7 @@
         display: block !important;
     }
         .navigation ul li:hover .dropdown-menu {
-            display: none !important;
+            display: none;
         }
     .header-right {
         position: fixed;
